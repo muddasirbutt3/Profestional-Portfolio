@@ -13,7 +13,7 @@ body {
 
 /* Sidebar */
 .sidebar {
-  width: 250px;
+  width: 0px;
   height: 100%;
   background-color: #0b0f1a;
   color: white;
@@ -21,7 +21,7 @@ body {
   font-size: 15px;
   top: 0;
   left: 0%;
-  padding: 20px;
+  padding: 0px;
   text-align: center;
   /* overflow: hidden; */
   transition: all .3s ease-in;
@@ -110,7 +110,7 @@ body {
 
 /* Main content */
 .main-content {
-  margin-left: 250px;
+  margin-left: 0px;
   min-height: 100vh;
   overflow: hidden;
   background-color: white;
