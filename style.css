@@ -565,7 +565,7 @@ body {
   letter-spacing: 0.5px;
 }
 
-/* @media (max-width: 768px) {
+ @media (max-width: 768px) {
   .sidebar {
     position: relative;
     width: 100%;
@@ -651,4 +651,4 @@ body {
     height: 45px;
     font-size: 18px;
   }
-} */
+} 
